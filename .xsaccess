@@ -1,0 +1,7 @@
+{
+	"exposed" : true,
+	"authorization": [ "sap.hana.xsopen.tableConv::Basic" ],	
+    "prevent_xsrf": true,
+    "enable_etags" : true, 
+    "authentication": { "method": "Form"} 
+}
